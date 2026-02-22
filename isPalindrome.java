@@ -5,7 +5,6 @@ import java.util.stream.Stream;
 public class isPalindrome {
 
 	
-	
 	 public static boolean isPalindrome(String s) {
 		
 		s=s.toLowerCase().replaceAll("[^a-z0-9]","");
