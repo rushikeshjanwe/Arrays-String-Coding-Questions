@@ -35,6 +35,4 @@ public class DuplicateNo {
 		findDuplicate(new int[] {3,1,4,2,3});
 	}
 
-
-
 }
