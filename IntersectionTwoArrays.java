@@ -3,8 +3,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashSet;
 
-
-
 public class IntersectionTwoArrays{
  static ArrayList<Integer> intersect(int[] a, int[] b) {
 
