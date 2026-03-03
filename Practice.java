@@ -6,7 +6,6 @@ public class Practice {
 	
 	public static int getSecondLargest(int[] arr) {
 
-
 		
 	int second=Integer.MIN_VALUE;
 	int biggest=arr[0];
